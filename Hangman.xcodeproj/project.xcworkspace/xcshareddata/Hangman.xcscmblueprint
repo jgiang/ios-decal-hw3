@@ -1,0 +1,240 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F+++F6EA54F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E2644FA05FF6B34713717785B0B01D2AED2C4690+++51D499D" : 0,
+    "B975C1B9DA8F8931DF7B7EC577607188199E1632+++0B40C61" : 0,
+    "AEAF17D15C2888ED2A7FCF04093D2C235AFD9F79+++C583168" : 0,
+    "D2B7071F261DD9CE39757CA4F942978AF817DA39+++864DE67" : 0,
+    "834853780E256F23FAAF57DC1413821EB6C36385+++833A2AD" : 0,
+    "EBC6480A304AD84B24260BF1A7FB1F9348860634+++FD9E26F" : 0,
+    "E69FE4EF741A4AE9FEC6C9DC85DF6A19F55E35E0+++2421A17" : 0,
+    "1C9AB8F17F26F16C5276A119B4CCC35D1D239822+++1D79120" : 0,
+    "7D9FB6A284D786A161636EA015BB42F8D54C4422+++4067AA3" : 0,
+    "157F059925EA8222D67EE44CCC61BADF3CC7BAF3+++5A51355" : 0,
+    "C6F51EB40BFA0CDF2EA51C58C5EE57E5918E8615+++A566CAC" : 0,
+    "6F644CFD003418011269364C4C72094F2D146756+++D28D311" : 0,
+    "7A915AD5A68F5AF7271FAB075EB189D3F3E83505+++72F19B1" : 0,
+    "7D9FB6A284D786A161636EA015BB42F8D54C4422+++ADFC2D6" : 0,
+    "2B17A8319F26A2821D36461581C21CE1C79B6E1A+++D11F52B" : 0,
+    "6A27122416A1F005319BFD923B67595E0822B50E+++0E24123" : 0,
+    "834853780E256F23FAAF57DC1413821EB6C36385+++97382C3" : 0,
+    "3C253C5A6D42836DDB7169DBC44109917318EEAB+++6F58644" : 0,
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F+++F6EA54F" : 0,
+    "88EFE442DF987BCFAA33EB00C4AE8C1EEC3D5292+++DF95D59" : 0,
+    "D1A7FC246FCB5F3BD703E46EA75362CADB27D2FF+++120C745" : 0,
+    "125A088D0563CA7765E7327B7C6B75272C5C9F17+++D7F183A" : 0,
+    "4560110E9CCDFA0EA4D796C7DED50E7875047D02+++86C5862" : 0,
+    "77180C70AAC5995EE6E8E26A7BEA21C1554851CB+++9A92B09" : 0,
+    "87C9A6129E5EED1A82D6F66AF643B23B982F8F04+++FBE4AC7" : 0,
+    "300D390DC80D8C9AAA581117389B9993322856D3+++8215943" : 0,
+    "7D9FB6A284D786A161636EA015BB42F8D54C4422+++5783CCE" : 0,
+    "2EF7FD06DD107C1E01B8FBEB1B68AD6A05346C52+++51C152A" : 0,
+    "63168D2B233A7E6F805F49C9D1BE8AEBA97F3AC8+++BAD1529" : 0,
+    "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200+++6222077" : 0,
+    "0EF79DB2A7ABFF95229C2054ABFB26349B2E8A05+++B26D7F5" : 0,
+    "3927A4DCAD5FE3C578DC60F1F278DE48440DDE2F+++5E909CC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "80D9353B-D22F-457A-B87A-C94C00B79E43",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E2644FA05FF6B34713717785B0B01D2AED2C4690+++51D499D" : "ios-decal-check-in\/",
+    "B975C1B9DA8F8931DF7B7EC577607188199E1632+++0B40C61" : "ios-decal-proj1\/",
+    "AEAF17D15C2888ED2A7FCF04093D2C235AFD9F79+++C583168" : "..\/codesmith\/week-2-assessment",
+    "D2B7071F261DD9CE39757CA4F942978AF817DA39+++864DE67" : "..\/codesmith\/unit-9SB-text-adventure",
+    "834853780E256F23FAAF57DC1413821EB6C36385+++833A2AD" : "..\/codesmith\/unit-project-api",
+    "EBC6480A304AD84B24260BF1A7FB1F9348860634+++FD9E26F" : "..\/codesmith\/unit-3-algorithms",
+    "E69FE4EF741A4AE9FEC6C9DC85DF6A19F55E35E0+++2421A17" : "..\/codesmith\/unit-2-data-structure",
+    "1C9AB8F17F26F16C5276A119B4CCC35D1D239822+++1D79120" : "..\/codesmith\/unit-12-distributed-systems",
+    "7D9FB6A284D786A161636EA015BB42F8D54C4422+++4067AA3" : "..\/codesmith\/test-travis",
+    "157F059925EA8222D67EE44CCC61BADF3CC7BAF3+++5A51355" : "..\/codesmith\/unit-3SB-list",
+    "C6F51EB40BFA0CDF2EA51C58C5EE57E5918E8615+++A566CAC" : "..\/codesmith\/recruitment-assessment-part-1",
+    "6F644CFD003418011269364C4C72094F2D146756+++D28D311" : "..\/cn\/smile_cs169",
+    "7A915AD5A68F5AF7271FAB075EB189D3F3E83505+++72F19B1" : "..\/codesmith\/unit-8SB-node-pages",
+    "7D9FB6A284D786A161636EA015BB42F8D54C4422+++ADFC2D6" : "..\/codesmith\/test-travis",
+    "2B17A8319F26A2821D36461581C21CE1C79B6E1A+++D11F52B" : "..\/codesmith\/unit-6SB-react-tic-tac-toe",
+    "6A27122416A1F005319BFD923B67595E0822B50E+++0E24123" : "..\/travel-journal",
+    "834853780E256F23FAAF57DC1413821EB6C36385+++97382C3" : "..\/codesmith\/unit-project-api",
+    "3C253C5A6D42836DDB7169DBC44109917318EEAB+++6F58644" : "ios-decal-hw2\/",
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F+++F6EA54F" : "ios-decal-hw3\/",
+    "88EFE442DF987BCFAA33EB00C4AE8C1EEC3D5292+++DF95D59" : "..\/codesmith\/unit-1-js-fundamentals",
+    "D1A7FC246FCB5F3BD703E46EA75362CADB27D2FF+++120C745" : "..\/codesmith\/week-1-assessment",
+    "125A088D0563CA7765E7327B7C6B75272C5C9F17+++D7F183A" : "..\/codesmith\/unit-4SB-calendar",
+    "4560110E9CCDFA0EA4D796C7DED50E7875047D02+++86C5862" : "..\/codesmith\/hack-hour-resolver",
+    "77180C70AAC5995EE6E8E26A7BEA21C1554851CB+++9A92B09" : "..\/codesmith\/unit-9SB-angular",
+    "87C9A6129E5EED1A82D6F66AF643B23B982F8F04+++FBE4AC7" : "..\/codesmith\/unit-2SB-arrays",
+    "300D390DC80D8C9AAA581117389B9993322856D3+++8215943" : "..\/codesmith\/blog",
+    "7D9FB6A284D786A161636EA015BB42F8D54C4422+++5783CCE" : "..\/codesmith\/test-travis",
+    "2EF7FD06DD107C1E01B8FBEB1B68AD6A05346C52+++51C152A" : "..\/qz",
+    "63168D2B233A7E6F805F49C9D1BE8AEBA97F3AC8+++BAD1529" : "..\/codesmith\/precourse-assessment",
+    "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200+++6222077" : "ios-decal-hw1\/",
+    "0EF79DB2A7ABFF95229C2054ABFB26349B2E8A05+++B26D7F5" : "..\/codesmith\/unit-4-snake",
+    "3927A4DCAD5FE3C578DC60F1F278DE48440DDE2F+++5E909CC" : "..\/codesmith\/jgiang.github.io"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hangman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hangman.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-4-snake.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0EF79DB2A7ABFF95229C2054ABFB26349B2E8A05+++B26D7F5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-4SB-calendar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "125A088D0563CA7765E7327B7C6B75272C5C9F17+++D7F183A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jgiang\/unit-3SB-list.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "157F059925EA8222D67EE44CCC61BADF3CC7BAF3+++5A51355"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-12-distributed-systems.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C9AB8F17F26F16C5276A119B4CCC35D1D239822+++1D79120"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-6SB-react-tic-tac-toe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B17A8319F26A2821D36461581C21CE1C79B6E1A+++D11F52B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:berkeley-cs186\/qz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EF7FD06DD107C1E01B8FBEB1B68AD6A05346C52+++51C152A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/blog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "300D390DC80D8C9AAA581117389B9993322856D3+++8215943"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/jgiang.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3927A4DCAD5FE3C578DC60F1F278DE48440DDE2F+++5E909CC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/ios-decal-hw2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C253C5A6D42836DDB7169DBC44109917318EEAB+++6F58644"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/hack-hour-resolver.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4560110E9CCDFA0EA4D796C7DED50E7875047D02+++86C5862"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jgiang\/precourse-assessment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63168D2B233A7E6F805F49C9D1BE8AEBA97F3AC8+++BAD1529"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:travel-journal\/travel-journal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A27122416A1F005319BFD923B67595E0822B50E+++0E24123"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ucbcs169fa15\/cn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F644CFD003418011269364C4C72094F2D146756+++D28D311"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-9SB-angular.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "77180C70AAC5995EE6E8E26A7BEA21C1554851CB+++9A92B09"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-8SB-node-pages.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A915AD5A68F5AF7271FAB075EB189D3F3E83505+++72F19B1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/hack-hour.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D9FB6A284D786A161636EA015BB42F8D54C4422+++4067AA3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/test-travis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D9FB6A284D786A161636EA015BB42F8D54C4422+++5783CCE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/hack-hour-archive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D9FB6A284D786A161636EA015BB42F8D54C4422+++ADFC2D6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:petridw\/unit-project-api.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "834853780E256F23FAAF57DC1413821EB6C36385+++833A2AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-project-api.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "834853780E256F23FAAF57DC1413821EB6C36385+++97382C3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/ios-decal-hw3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F+++F6EA54F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jgiang\/unit-2SB-arrays.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "87C9A6129E5EED1A82D6F66AF643B23B982F8F04+++FBE4AC7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jgiang\/unit-1-js-fundamentals.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88EFE442DF987BCFAA33EB00C4AE8C1EEC3D5292+++DF95D59"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/week-2-assessment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AEAF17D15C2888ED2A7FCF04093D2C235AFD9F79+++C583168"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/ios-decal-proj1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B975C1B9DA8F8931DF7B7EC577607188199E1632+++0B40C61"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/recruitment-assessment-part-1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6F51EB40BFA0CDF2EA51C58C5EE57E5918E8615+++A566CAC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/ios-decal-hw1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200+++6222077"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/week-1-assessment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1A7FC246FCB5F3BD703E46EA75362CADB27D2FF+++120C745"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-9SB-text-adventure.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2B7071F261DD9CE39757CA4F942978AF817DA39+++864DE67"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/ios-decal-check-in.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2644FA05FF6B34713717785B0B01D2AED2C4690+++51D499D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-2-data-structure.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E69FE4EF741A4AE9FEC6C9DC85DF6A19F55E35E0+++2421A17"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgiang\/unit-3-algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EBC6480A304AD84B24260BF1A7FB1F9348860634+++FD9E26F"
+    }
+  ]
+}
