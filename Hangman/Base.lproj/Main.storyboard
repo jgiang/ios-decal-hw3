@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8187.4" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8151.3"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--Hangman View Controller-->
@@ -15,11 +16,127 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Chalkboard-background.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="a9k-QK-JWe">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jv1-sR-TyI">
+                                <rect key="frame" x="47" y="28" width="109" height="44"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="189" id="OkR-NG-Bwh"/>
+                                    <constraint firstAttribute="height" constant="44" id="cF1-eY-U5f"/>
+                                    <constraint firstAttribute="width" constant="109" id="nJk-QY-0Yp"/>
+                                    <constraint firstAttribute="height" constant="143" id="pkL-cm-Djv"/>
+                                </constraints>
+                                <inset key="contentEdgeInsets" minX="0.0" minY="-10" maxX="0.0" maxY="0.0"/>
+                                <state key="normal" title="New Game" backgroundImage="chalkboard-eraser-small.png">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="OkR-NG-Bwh"/>
+                                        <exclude reference="pkL-cm-Djv"/>
+                                    </mask>
+                                </variation>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4e6-cO-egQ">
+                                <rect key="frame" x="396" y="550" width="36" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="36" id="C3U-K4-rXO"/>
+                                    <constraint firstAttribute="height" constant="30" id="KZz-ht-taD"/>
+                                    <constraint firstAttribute="width" constant="36" id="TPc-Od-rpp"/>
+                                    <constraint firstAttribute="width" constant="36" id="wy3-QS-SAe"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="KZz-ht-taD"/>
+                                        <exclude reference="TPc-Od-rpp"/>
+                                        <exclude reference="wy3-QS-SAe"/>
+                                    </mask>
+                                </variation>
+                            </textField>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="cOx-cq-VTx">
+                                <rect key="frame" x="47" y="88" width="507" height="413"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.59999999999999998" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="413" id="7da-F3-a4m"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="7da-F3-a4m"/>
+                                    </mask>
+                                </variation>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1BH-NT-kYC">
+                                <rect key="frame" x="440" y="550" width="114" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="114" id="f7c-th-xta"/>
+                                    <constraint firstAttribute="width" constant="114" id="xBV-Be-UQr"/>
+                                    <constraint firstAttribute="height" constant="30" id="xm5-7k-y0y"/>
+                                </constraints>
+                                <inset key="contentEdgeInsets" minX="0.0" minY="-20" maxX="0.0" maxY="0.0"/>
+                                <state key="normal" title="Make Guess" backgroundImage="chalk-line.png">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="f7c-th-xta"/>
+                                        <exclude reference="xm5-7k-y0y"/>
+                                    </mask>
+                                </variation>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Previous Guesses" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Gs-U2-vbG">
+                                <rect key="frame" x="47" y="509" width="136" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="i4B-fV-UI1"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="1BH-NT-kYC" firstAttribute="leading" secondItem="4e6-cO-egQ" secondAttribute="trailing" constant="8" symbolic="YES" id="48u-Ee-e4K"/>
+                            <constraint firstItem="a9k-QK-JWe" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="4Is-9A-88V"/>
+                            <constraint firstItem="cOx-cq-VTx" firstAttribute="top" secondItem="Jv1-sR-TyI" secondAttribute="bottom" constant="16" id="9DI-Kn-byh"/>
+                            <constraint firstItem="Jv1-sR-TyI" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="27" id="A6T-Rx-adm"/>
+                            <constraint firstItem="1BH-NT-kYC" firstAttribute="top" secondItem="4e6-cO-egQ" secondAttribute="top" id="BtD-XU-G66"/>
+                            <constraint firstItem="1BH-NT-kYC" firstAttribute="trailing" secondItem="cOx-cq-VTx" secondAttribute="trailing" id="ENY-dt-lSy"/>
+                            <constraint firstItem="0Gs-U2-vbG" firstAttribute="top" secondItem="cOx-cq-VTx" secondAttribute="bottom" constant="8" symbolic="YES" id="F7k-c7-gJG"/>
+                            <constraint firstItem="0Gs-U2-vbG" firstAttribute="leading" secondItem="cOx-cq-VTx" secondAttribute="leading" id="FKg-j1-TMh"/>
+                            <constraint firstAttribute="trailing" secondItem="a9k-QK-JWe" secondAttribute="trailing" id="IhW-FN-yWS"/>
+                            <constraint firstItem="a9k-QK-JWe" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="Nfp-Ar-p5w"/>
+                            <constraint firstItem="1BH-NT-kYC" firstAttribute="bottom" secondItem="4e6-cO-egQ" secondAttribute="bottom" id="WJ4-dJ-Gfa"/>
+                            <constraint firstItem="a9k-QK-JWe" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="bUL-Yo-ceC"/>
+                            <constraint firstAttribute="bottom" secondItem="4e6-cO-egQ" secondAttribute="bottom" constant="20" symbolic="YES" id="bUw-Z1-D38"/>
+                            <constraint firstItem="Jv1-sR-TyI" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" symbolic="YES" id="cUG-vO-HXS"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="0Gs-U2-vbG" secondAttribute="bottom" constant="70" id="cvd-EN-NGf"/>
+                            <constraint firstItem="4e6-cO-egQ" firstAttribute="top" secondItem="cOx-cq-VTx" secondAttribute="bottom" constant="49" id="gSo-wn-spf"/>
+                            <constraint firstItem="Jv1-sR-TyI" firstAttribute="leading" secondItem="cOx-cq-VTx" secondAttribute="leading" id="h4z-x8-vtC"/>
+                            <constraint firstItem="0Gs-U2-vbG" firstAttribute="trailing" secondItem="cOx-cq-VTx" secondAttribute="trailing" id="jYf-LX-y19"/>
+                            <constraint firstItem="a9k-QK-JWe" firstAttribute="centerX" secondItem="cOx-cq-VTx" secondAttribute="centerX" id="qTF-Fr-TeK"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="guessButton" destination="1BH-NT-kYC" id="okW-X6-iyI"/>
+                        <outlet property="guessInput" destination="4e6-cO-egQ" id="qyU-Xa-IIb"/>
+                        <outlet property="hangmanDisplay" destination="cOx-cq-VTx" id="Pfq-kL-IEe"/>
+                        <outlet property="newGameButton" destination="Jv1-sR-TyI" id="HCB-s9-bpH"/>
+                        <outlet property="prevGuesses" destination="0Gs-U2-vbG" id="Amj-7G-TXW"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="220" y="537"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Chalkboard-background.jpg" width="1280" height="1600"/>
+        <image name="chalk-line.png" width="234" height="72"/>
+        <image name="chalkboard-eraser-small.png" width="797" height="321"/>
+    </resources>
 </document>

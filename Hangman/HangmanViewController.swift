@@ -10,6 +10,12 @@ import UIKit
 
 class HangmanViewController: UIViewController {
 
+    @IBOutlet var newGameButton: UIButton!
+    @IBOutlet var hangmanDisplay: UIImageView!
+    @IBOutlet var prevGuesses: UILabel!
+    @IBOutlet var guessInput: UITextField!
+    @IBOutlet var guessButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

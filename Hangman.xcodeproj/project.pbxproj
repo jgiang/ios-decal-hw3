@@ -15,6 +15,9 @@
 		3A2BBF6D1BCDDDA900B23285 /* HangmanWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BBF6C1BCDDDA900B23285 /* HangmanWords.swift */; settings = {ASSET_TAGS = (); }; };
 		3A2BBF6F1BCDDEBB00B23285 /* words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A2BBF6E1BCDDEBB00B23285 /* words.plist */; settings = {ASSET_TAGS = (); }; };
 		3A2BBF731BCDE37800B23285 /* Hangman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BBF721BCDE37800B23285 /* Hangman.swift */; settings = {ASSET_TAGS = (); }; };
+		D3B3C3771BD596C400C0D814 /* Chalkboard-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3B3C3761BD596C400C0D814 /* Chalkboard-background.jpg */; settings = {ASSET_TAGS = (); }; };
+		D3B3C3811BD59BB600C0D814 /* chalk-line.png in Resources */ = {isa = PBXBuildFile; fileRef = D3B3C3801BD59BB600C0D814 /* chalk-line.png */; settings = {ASSET_TAGS = (); }; };
+		D3B3C3831BD59F1800C0D814 /* chalkboard-eraser-small.png in Resources */ = {isa = PBXBuildFile; fileRef = D3B3C3821BD59F1800C0D814 /* chalkboard-eraser-small.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		3A2BBF6C1BCDDDA900B23285 /* HangmanWords.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HangmanWords.swift; sourceTree = "<group>"; };
 		3A2BBF6E1BCDDEBB00B23285 /* words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = words.plist; sourceTree = "<group>"; };
 		3A2BBF721BCDE37800B23285 /* Hangman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hangman.swift; sourceTree = "<group>"; };
+		D3B3C3761BD596C400C0D814 /* Chalkboard-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Chalkboard-background.jpg"; path = "../../../Chalkboard-background.jpg"; sourceTree = "<group>"; };
+		D3B3C3801BD59BB600C0D814 /* chalk-line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "chalk-line.png"; path = "../../../chalk-line.png"; sourceTree = "<group>"; };
+		D3B3C3821BD59F1800C0D814 /* chalkboard-eraser-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "chalkboard-eraser-small.png"; path = "../../../chalkboard-eraser-small.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				3A2BBF591BCDDAC200B23285 /* AppDelegate.swift */,
 				3A2BBF5D1BCDDAC200B23285 /* Main.storyboard */,
 				3A2BBF601BCDDAC200B23285 /* Assets.xcassets */,
+				D3B3C3761BD596C400C0D814 /* Chalkboard-background.jpg */,
+				D3B3C3821BD59F1800C0D814 /* chalkboard-eraser-small.png */,
+				D3B3C3801BD59BB600C0D814 /* chalk-line.png */,
 				3A2BBF621BCDDAC200B23285 /* LaunchScreen.storyboard */,
 				3A2BBF651BCDDAC200B23285 /* Info.plist */,
 			);
@@ -156,8 +165,11 @@
 			files = (
 				3A2BBF6F1BCDDEBB00B23285 /* words.plist in Resources */,
 				3A2BBF641BCDDAC200B23285 /* LaunchScreen.storyboard in Resources */,
+				D3B3C3831BD59F1800C0D814 /* chalkboard-eraser-small.png in Resources */,
 				3A2BBF611BCDDAC200B23285 /* Assets.xcassets in Resources */,
 				3A2BBF5F1BCDDAC200B23285 /* Main.storyboard in Resources */,
+				D3B3C3811BD59BB600C0D814 /* chalk-line.png in Resources */,
+				D3B3C3771BD596C400C0D814 /* Chalkboard-background.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
